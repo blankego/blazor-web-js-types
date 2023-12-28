@@ -1,0 +1,23 @@
+{
+  "name": "@need4steed/blazor-web-js-types",
+  "version": "0.1.0",
+  "description": "TypeScript definitions for blazor.web.js",
+  "homepage": "https://github.com/DefinitelyTyped/DefinitelyTyped/tree/master/types/tinymce",
+  "license": "MIT",
+  "contributors": [
+      {
+          "name": "Thatch Acre",
+          "githubUsername": "blankego",
+          "url": "https://github.com/blankego"
+      }
+  ],
+  "main": "",
+  "types": "index.d.ts",
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/DefinitelyTyped/DefinitelyTyped.git",
+      "directory": "types/tinymce"
+  },
+  "scripts": {},
+  "typeScriptVersion": "4.5"
+}
